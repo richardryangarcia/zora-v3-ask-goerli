@@ -1,0 +1,9 @@
+@openzeppelin/=lib/openzeppelin-contracts/
+@manifoldxyz/=lib/
+@rari-capital/=lib/
+ds-test/=lib/solmate/lib/ds-test/src/
+forge-std/=lib/forge-std/src/
+openzeppelin-contracts/=lib/openzeppelin-contracts/
+royalty-registry-solidity/=lib/royalty-registry-solidity/contracts/
+solmate/=lib/solmate/src/
+v3/=lib/v3/contracts/
